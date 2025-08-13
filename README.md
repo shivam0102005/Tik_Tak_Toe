@@ -30,3 +30,8 @@ Play against a friend in a classic 3x3 grid game.
 ---
 
 ## 📂 Project Structure
+tictactoe/
+│── index.html # Game layout
+│── style.css # Game styling
+│── script.js # Game logic
+│── README.md # Project info
